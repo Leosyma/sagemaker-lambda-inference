@@ -1,4 +1,3 @@
-# Data Science Academy
 # Projeto de Deploy com SageMaker, Lambda e API Gateway
 
 # Imports
